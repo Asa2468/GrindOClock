@@ -1,4 +1,4 @@
-## See Live Demo : 
+## See Live Demo : <strong><em>[GrindO'Clock](https://asa2468.github.io/GrindOClock/)</em></strong> 
 <br>
 
 ##
@@ -65,7 +65,7 @@ Clone the project into local and install all the npm packages. In the project fo
   
   #### Clone this repository
    ```sh
-   git clone https://github.com/Asa2467/GrindOClock.git
+   git clone https://github.com/Asa2468/GrindOClock.git
 
    ```
 </li>
