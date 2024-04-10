@@ -2,7 +2,7 @@
 <br>
 
 ##
-### *GrindO'Clock: Your trusty companion for conquering tasks and seizing the day with style!*
+### *Grindoclock: Turning to-dos into ta-das, one task at a time!*
 ##
 <br>
 
