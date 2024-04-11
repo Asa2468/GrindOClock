@@ -108,9 +108,6 @@ Clone the project into local and install all the npm packages. In the project fo
 - **Set Limits:**
   Total of 7 Projects can be added and each Project can have atmost 4 Tasks.
 
-- **Reset Button:**
-  Includes a button to reset the game and start a new round.
-
 <br>
 
 ## Contribution
