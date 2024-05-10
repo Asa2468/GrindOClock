@@ -28,7 +28,7 @@ Grindoclock is your ultimate productivity partner, meticulously crafted with [Re
 <br>
 
 ## Technology Used
-#### This project  is built with [React JS](https://reactjs.org/).
+#### This project  is built with [React JS](https://reactjs.org/) and [Tailwind CSS](https://v2.tailwindcss.com/docs).
 
 <br>
 
