@@ -119,3 +119,5 @@ Contributions make the open source community such an amazing place to learn, ins
 5. Open a Pull Request
 
 <br>
+
+<em>By leveraging the power of React JS and the sleek design capabilities of Tailwind CSS, Grindoclock provides a seamless and efficient solution for project management and task tracking. With its dynamic user interface and responsive design, Grindoclock empowers users to effortlessly organize their projects and stay on top of their tasks with ease.</em>
