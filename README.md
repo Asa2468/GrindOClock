@@ -7,7 +7,7 @@
 <br>
 
 ## Overview
-Grindoclock is your ultimate productivity partner, meticulously crafted with [React JS](https://reactjs.org/) and Tailwind CSS for seamless performance and sleek design. Organize your projects effortlessly, with the ability to add and delete projects on the fly. Dive deeper into your tasks by assigning specific tasks to each project, ensuring nothing falls through the cracks. With Grindoclock, stay on top of your game and conquer your to-do list like a pro!
+Grindoclock is your ultimate productivity partner, meticulously crafted with [React JS](https://reactjs.org/) and [Tailwind CSS](https://v2.tailwindcss.com/docs) for seamless performance and sleek design. Organize your projects effortlessly, with the ability to add and delete projects on the fly. Dive deeper into your tasks by assigning specific tasks to each project, ensuring nothing falls through the cracks. With Grindoclock, stay on top of your game and conquer your to-do list like a pro!
 <br>
 <details>
   <summary><h2>Screenshots</h2></summary>
